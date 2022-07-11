@@ -1,0 +1,21 @@
+.principal{
+    background-color: antiquewhite;
+}
+
+.principal__botao{
+    background-color: blue;
+    border: none;
+    border-radius: 1rem;
+    color: white;
+    padding: 1rem;
+}
+
+.principal__main{
+    align-items: center;
+    background: white;
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+    justify-content: center;
+    width: 100vw;
+}
